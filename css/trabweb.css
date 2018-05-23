@@ -5,13 +5,13 @@ body {
 }
 
 .back-page{
-    background: url('http://localhost/trabweb/img/background.jpg');
+    background: url('http://localhost:8088/trabweb/img/background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .back-page2{
-    background: url('http://localhost/trabweb/img/background2.jpg');
+    background: url('http://localhost:8088/trabweb/img/background2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
