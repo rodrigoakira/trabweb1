@@ -16,6 +16,18 @@ body {
     background-size: cover;
 }
 
+.back-page3{
+    background: url('http://localhost:8088/trabweb/img/background3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.back-page4{
+    background: url('http://localhost:8088/trabweb/img/background4.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .register-box {
 	margin-top: 5% auto;
 }

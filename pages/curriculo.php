@@ -8,7 +8,7 @@
 
 </head>
 
-<body class="back-page">
+<body class="back-page3">
 
 <div class="register-box">
 		<div class="register-box-body">
